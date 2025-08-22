@@ -1,4 +1,4 @@
-# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# yo supp gang <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am **Nirjas Jakilim**, a professional DevOps. who is always committed to his work and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am quite fond of open-source software and always trying to find a way to contribute to it.
 My primary hobbies are:
 - Listening to music
@@ -6,7 +6,7 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problems and Issue Solving
 
-[![NirZak Profile Views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/Nirzak/nirzak-profile-views)
+[![KrisnaPrtma Profile Views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/Nirzak/nirzak-profile-views)
 [![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
 
 <a href="https://www.linkedin.com/in/nirzak/">
