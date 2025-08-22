@@ -27,3 +27,15 @@ My primary hobbies are:
 <a href="https://dev.to/nirzak">
   <img align="left" alt="Nirzak's DevTo" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/devto.svg" />
 </a>
+
+<br>
+
+## ⚙️ Languages
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
