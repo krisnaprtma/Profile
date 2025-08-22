@@ -5,8 +5,24 @@ My primary hobbies are:
 - Programming
 - Open-Source Contribution
 - Problems and Issue Solving
-[![Rizik Profile](https://github.com/krisnaprtma/Profile/blob/main/index.html)](https://github.com/Nirzak/nirzak-profile-views)
 [![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
 
 
-
+<a href="https://www.linkedin.com/in/nirzak/">
+  <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/9490406/nirzak">
+  <img align="left" alt="Nirzak's StackOverflow" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/stack.svg" />
+</a>
+<a href="https://nirzak.medium.com/">
+  <img align="left" alt="Nirjas Jakilim Medium" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/medium.svg" />
+</a>
+<a href="https://twitter.com/nirzak07">
+  <img align="left" alt="Nirjas Jakilim Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/nirzak?si=NQ00pSnmRae3XuZ61ln8bA">
+  <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
+</a>
+<a href="https://dev.to/nirzak">
+  <img align="left" alt="Nirzak's DevTo" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/devto.svg" />
+</a>
